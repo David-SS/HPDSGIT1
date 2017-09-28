@@ -176,4 +176,57 @@ aace03d ADD Capitulo 2
 2137683 Primer Commit
 
 -------------------------------
+-------------------------------
+
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   Indice.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   log.txt
+
+-------------------------------
+
+Indice
+
+Cap1.........
+Cap2.........
+Cap3.........
+
+-------------------------------
+
+4747154 (HEAD -> master) UPDATE LOG
+19482e2 ADD LOG
+55f2736 UPDATE Capitulo 1
+f58b57c ADD Capitulo 4
+de59377 UPDATE Indice
+129daee ADD Capitulo 3
+aace03d ADD Capitulo 2
+931bdc2 ADD Capitulo 1
+2137683 Primer Commit
+
+-------------------------------
+
+Este es el primer capitulo
+
+Segundo parrafo
+
+Tercer parrafo
+
+Otro parrafo mas
+
+-------------------------------
+
+Este es el primer capitulo
+
+Segundo parrafo
+
+Tercer parrafo
+
+-------------------------------
 
